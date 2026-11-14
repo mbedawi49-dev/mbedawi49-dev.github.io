@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.mbedawi49_dev.twa",
-        "sha256_cert_fingerprints": ["24:C8:A3:86:7A:51:D6:A5:02:72:52:15:E7:53:B9:C2:FC:B2:3D:5A:4C:15:DF:D6:4D:9A:1E:61:47:BB:AC:91"]
-      }
-    }]
